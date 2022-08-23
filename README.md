@@ -6,6 +6,7 @@
 
 #### 🌱 I’m currently pursuing my MS degree in Computer Science from the University of Southern California 
 
+<!--<img align = "left" src="https://raw.githubusercontent.com/AdityaMahaddalkar/AdityaMahaddalkar/master/gif1.gif"  width="200" height="185" alt="Hello!">	-->
 <!--![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=AdityaMahaddalkar&show_icons=true&theme=cobalt&count_private=true)-->
 <!--![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaMahaddalkar&theme=cobalt&langs_count=8&layout=compact)-->
 
@@ -48,6 +49,9 @@
 </a>
 <a href="https://github.com/AdityaMahaddalkar">
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+</a>
+<a href="https://github.com/AdityaMahaddalkar">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </a>
 <a href="https://github.com/AdityaMahaddalkar">
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
