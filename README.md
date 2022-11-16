@@ -1,86 +1,28 @@
-### Hey there ! I'm Aditya 👋🏾   
+<h1 align="center">Hi 👋, I'm Aditya</h1>
+<h3 align="center">A passionate full-stack and machine learning developer. Currently a student at University of Southern California</h3>
 
-![GitHub followers](https://img.shields.io/github/followers/AdityaMahaddalkar?label=Follow&style=social)
-![](https://komarev.com/ghpvc/?username=your-github-AdityaMahaddalkar&color=blueviolet)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityamahaddalkar&label=Profile%20views&color=0e75b6&style=flat" alt="adityamahaddalkar" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityamahaddalkar" alt="adityamahaddalkar" /></a> </p>
 
-#### 🌱 I’m currently pursuing my MS degree in Computer Science from the University of Southern California 
+- 🔭 I’m currently working on [Genome Sequence Alignment Problem](https://github.com/AdityaMahaddalkar/genetic-similarity)
 
-<!--<img align = "left" src="https://raw.githubusercontent.com/AdityaMahaddalkar/AdityaMahaddalkar/master/gif1.gif"  width="200" height="185" alt="Hello!">	-->
-<!--![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=AdityaMahaddalkar&show_icons=true&theme=cobalt&count_private=true)-->
-<!--![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaMahaddalkar&theme=cobalt&langs_count=8&layout=compact)-->
+- 🌱 I’m currently learning **Analysis of Algorithms, Artificial Intelligence**
 
-<a href="https://github.com/AdityaMahaddalkar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaMahaddalkar&theme=cobalt&langs_count=8&layout=compact" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/AdityaMahaddalkar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdityaMahaddalkar&show_icons=true&theme=cobalt&count_private=true" />
-</a>
+- 💬 Ask me about **react**
 
+- 📫 How to reach me **adityam1311@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aditya-mahaddalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-mahaddalkar" height="30" width="40" /></a>
+</p>
 
-### My Skill-Set
-<a href="https://github.com/AdityaMahaddalkar">
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-</a>
-<a href="https://github.com/AdityaMahaddalkar">
-<img src="https://img.shields.io/badge/c%20-%23F05033.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-</a>
-<a href="https://github.com/AdityaMahaddalkar">
-<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-</a>
-<a href="https://github.com/AdityaMahaddalkar">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-</a>
-<a href="https://github.com/AdityaMahaddalkar">
-<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
-</a>
-<a href="https://github.com/AdityaMahaddalkar">
-<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
-</a>
-<a href="https://github.com/AdityaMahaddalkar">
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-</a>
-<a href="https://github.com/AdityaMahaddalkar">
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-</a>
-<a href="https://github.com/AdityaMahaddalkar">
-<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</a>
-<a href="https://github.com/AdityaMahaddalkar">
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-</a>
-<a href="https://github.com/AdityaMahaddalkar">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-</a>
-<a href="https://github.com/AdityaMahaddalkar">
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-</a>
-<a href="https://github.com/AdityaMahaddalkar">
-<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://github.com/AdityaMahaddalkar">
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-</a>
-<a href="https://github.com/AdityaMahaddalkar">
-<img src ="https://img.shields.io/badge/sqlite-%3121011.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
-</a>
-<a href="https://github.com/AdityaMahaddalkar">
-<img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-</a>
-<a href="https://github.com/AdityaMahaddalkar">
-<img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
-</a>
-<a href="https://github.com/AdityaMahaddalkar">
-<img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
-</a>
-<a href="https://github.com/AdityaMahaddalkar">
-<img src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
-</a>
-<a href="https://github.com/AdityaMahaddalkar">
-<img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
-</a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityamahaddalkar&show_icons=true&locale=en&layout=compact" alt="adityamahaddalkar" /></p>
 
-#### 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/aditya-mahaddalkar-b7a864148)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityamahaddalkar&show_icons=true&locale=en" alt="adityamahaddalkar" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityamahaddalkar&" alt="adityamahaddalkar" /></p>
