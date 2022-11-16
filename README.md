@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Analysis of Algorithms, Artificial Intelligence**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **python, java, react.js**
 
 - 📫 How to reach me **adityam1311@gmail.com**
 
