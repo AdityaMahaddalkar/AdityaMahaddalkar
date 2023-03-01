@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityamahaddalkar" alt="adityamahaddalkar" /></a> </p>
 
-- 🔭 I’m currently working on [Genome Sequence Alignment Problem](https://github.com/AdityaMahaddalkar/genetic-similarity)
+- 🔭 I’m currently working on [Apache Spark with Spring Boot](https://github.com/AdityaMahaddalkar/java-spark-prototype)
 
-- 🌱 I’m currently learning **Analysis of Algorithms, Artificial Intelligence**
+- 🌱 I’m currently learning **Web Technology, Database Systems**
 
 - 💬 Ask me about **python, java, react.js**
 
