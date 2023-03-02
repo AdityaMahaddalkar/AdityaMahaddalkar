@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityamahaddalkar" alt="adityamahaddalkar" /></a> </p>
 
-- 🔭 I’m currently working on [Apache Spark with Spring Boot](https://github.com/AdityaMahaddalkar/pyspark-prototype)
+- 🔭 I’m currently working on [Apache Spark with Python](https://github.com/AdityaMahaddalkar/pyspark-prototype)
 
 - 🌱 I’m currently learning **Web Technology, Database Systems**
 
