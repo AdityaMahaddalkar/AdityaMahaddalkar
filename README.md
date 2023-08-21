@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityamahaddalkar" alt="adityamahaddalkar" /></a> </p>
 
-- 🔭 I’m currently working on [UK Consumer Trend Prediction with Machine Learning](https://github.com/AdityaMahaddalkar/consumer-trend-prediction)
+- 🔭 I’m currently working on [PySpark Click-Through Rate Prediction](https://github.com/AdityaMahaddalkar/click-through-rate-prediction)
 
 - 🌱 I’m currently learning **Web Technology, Database Systems**
 
